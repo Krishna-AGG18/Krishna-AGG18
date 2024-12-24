@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6000F7&width=435&lines=Hello%2C+there+%F0%9F%91%8B;This+is+Krishna%2C+a+Frontend-Developer+and+web3+enthusiast+currently+in+my+learning+phase+!!+%F0%9F%98%80%F0%9F%98%80)](https://git.io/typing-svg)
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6000F7&width=435&lines=Hello%2C+there+%F0%9F%91%8B;This+is+Krishna%2C+Frontend-Developer;and+web3+enthusiast+currently+in+my+;learning+phase+!!+%F0%9F%98%80%F0%9F%98%80)](https://git.io/typing-svg)**
 <!--
 **Krishna-AGG18/Krishna-AGG18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

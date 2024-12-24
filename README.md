@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 **![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2FKrishna-AGG18219de.png?alt=media)**
-![Contribution Graph](https://contribution.oooo.so/_/Krishna-AGG18?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=green&dark=true)
+**![Contribution Graph](https://contribution.oooo.so/_/Krishna-AGG18?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=mess&animation_duration=4&animation_loop=true&weeks=30&theme=green&dark=true)**

@@ -113,14 +113,11 @@ I'm driven by the love of turning ideas into beautiful and functional apps. I be
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-agg18&hide_border=true&layout=compact" align="left" style="width: 100%" />  
-
-  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-agg18&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
 
@@ -142,6 +139,5 @@ I'm driven by the love of turning ideas into beautiful and functional apps. I be
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 

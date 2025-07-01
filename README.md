@@ -1,6 +1,7 @@
 # **<div align="center">Hey 👋, I'm Krishna!</div>**  
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6000F7&width=435&lines=Hello%2C+there+%F0%9F%91%8B;This+is+Krishna%2C+Frontend-Developer;and+web3+enthusiast+currently+in+my+;learning+phase+!!+%F0%9F%98%80%F0%9F%98%80)](https://git.io/typing-svg)**
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6000F7&width=1000&lines=Krishna+here+%F0%9F%91%8B+Welcome!;Frontend+Developer+%7C+React+%2B+Appwrite;Currently+exploring+AI+and+Spring+Boot+%F0%9F%9A%80;Learning+by+building+real+projects+%F0%9F%93%A2)](https://git.io/typing-svg)**
+
 
 <div align="center">
 <a href="https://github.com/Krishna-AGG18" target="_blank">
@@ -47,13 +48,9 @@ I'm a passionate **Web Developer** and **BCA student** who loves building intera
 I'm driven by the love of turning ideas into beautiful and functional apps. I believe in learning by doing, and GitHub is where I showcase that journey.
 
 ---
-  
-  
-
-<br/>  
 
 
-## Rapidfire  
+### Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [ThoughtHaven](https://thoughthaven.netlify.app)  
@@ -111,7 +108,7 @@ I'm driven by the love of turning ideas into beautiful and functional apps. I be
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
@@ -121,11 +118,12 @@ I'm driven by the love of turning ideas into beautiful and functional apps. I be
 
 </td></tr></table>  
 
-<br/>  
-
+<div align="center">
   
+![image](https://github.com/user-attachments/assets/dae4eb7d-e7b4-4ad9-9079-77fc4b9fa855)
+ 
+</div>
 
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=krishna-agg18&&style=flat-square" align="center" />

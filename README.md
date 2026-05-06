@@ -107,17 +107,7 @@ I love solving problems through code, learning modern technologies, and building
 
 # 📊 GitHub Stats
 
-<a href="https://github.com/krishna-agg18">
-<img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/krishna-agg18">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-agg18&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/krishna-agg18">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-agg18&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishna-AGG18&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 ---
 

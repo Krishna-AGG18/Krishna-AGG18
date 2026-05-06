@@ -26,94 +26,31 @@ I love solving problems through code, learning modern technologies, and building
 ### Languages
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-  </a>
-  <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
-  </a>
-  <a href="https://www.oracle.com/java/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="40" height="40" alt="C" />
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" /></a><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a><a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" /></a><a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="48" height="48" alt="PHP" /></a>
 </p>
 
 ### Frontend Development
 
 <p align="left">
-  <a href="https://reactjs.org/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a>
-  <a href="https://nextjs.org/docs">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="40" height="40" alt="NextJs" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
-  </a>
-  <a href="https://redux.js.org/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" height="40" alt="Redux" />
-  </a>
-  <a href="https://vitejs.dev/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" height="40" alt="Vite" />
-  </a>
-  <a href="https://ui.shadcn.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="40" height="40" alt="Shadcn/ui" />
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a><a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="48" height="48" alt="NextJs" /></a><a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="48" height="48" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="48" height="48" alt="Bootstrap" /></a><a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="48" height="48" alt="Redux" /></a><a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="48" height="48" alt="Vite" /></a><a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="48" height="48" alt="Shadcn/ui" /></a>
 </p>
 
 ### Backend & Database
 
 <p align="left">
-  <a href="https://nodejs.org/en/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" alt="Express" />
-  </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" />
-  </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
-  </a>
-  <a href="https://appwrite.io/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="40" height="40" alt="Appwrite" />
-  </a>
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" /></a><a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="48" height="48" alt="Express" /></a><a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="48" height="48" alt="FastAPI" /></a><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48" height="48" alt="MongoDB" /></a><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" /></a><a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a><a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="48" height="48" alt="Firebase" /></a><a href="https://appwrite.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="48" height="48" alt="Appwrite" /></a><a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="48" height="48" alt="Supabase" /></a>
 </p>
 
 ### Data Science & Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /><img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" /><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /><img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange" /><img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=flat-square&logo=databricks&logoColor=white" />
 </p>
 
 ### Tools & Platforms
 
 <p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
-  </a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" /></a><a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" /></a><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="48" height="48" alt="VS Code" /></a><a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="48" height="48" alt="Sublime Text" /></a><a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="48" height="48" alt="Figma" /></a><a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="48" height="48" alt="Photoshop" /></a><a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" /></a><a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="48" height="48" alt="Ubuntu" /></a><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" /></a><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="48" height="48" alt="AWS" /></a><a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="48" height="48" alt="Google Cloud" /></a><a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="48" height="48" alt="Azure" /></a><a href="https://www.digitalocean.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="48" height="48" alt="DigitalOcean" /></a><a href="https://render.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="48" height="48" alt="Render" /></a>
 </p>
 
 ---

@@ -69,39 +69,45 @@ I love solving problems through code, learning modern technologies, and building
 | <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a> | <a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" /></a> | <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40" height="40" alt="VS Code" /></a> | <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" width="40" height="40" alt="Sublime Text" /></a> | <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" /></a> | <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="40" height="40" alt="Photoshop" /></a> | <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a> | <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="40" height="40" alt="Ubuntu" /></a> | <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a> | <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40" height="40" alt="AWS" /></a> | <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="40" height="40" alt="Google Cloud" /></a> | <a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" alt="Azure" /></a> | <a href="https://www.digitalocean.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="40" height="40" alt="DigitalOcean" /></a> | <a href="https://render.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="40" height="40" alt="Render" /></a> |
 ---
 
-# 🚀 Featured Projects
+# ⭐ Featured Projects
 
-### 🔹 Resumind — AI Resume Analyzer
+## 🧠 Resumind — AI Resume Analyzer
+AI-powered resume analysis platform with authentication, cloud storage, and intelligent resume insights.
 
-* AI-powered resume analysis platform
-* Built using React, TypeScript, Puter.js
-* Authentication, AI analysis, and cloud storage integration
+### 🔧 Tech Stack
+React • TypeScript • Tailwind CSS • Puter.js • AI APIs
 
-### 🔹 ThoughtHaven — Full Stack Blog Application
-
-* Blogging platform using React 19 and Appwrite
-* JWT authentication and secure CRUD operations
-* TinyMCE editor integration
-
-### 🔹 ASKIO — AI Chatbot
-
-* AI-powered chatbot using Google Gemini API
-* Supports chat, code assistance, and content generation
-* Built with React and Tailwind CSS
-
-### 🔹 Note Nostre — Notes Application
-
-* Full-stack notes app using Firebase
-* Real-time synchronization and authentication
-* Rich-text editing support
+🔗 Repo: https://github.com/krishna-agg18/AIResume
 
 ---
 
-# 🌐 Connect With Me
+## ✍️ ThoughtHaven — Blogging Platform
+Modern blogging platform with clean UI, authentication, and content management features.
 
-| GitHub | LinkedIn | X / Twitter | Threads |
-|---|---|---|---|
-| <a href="https://github.com/krishna-agg18" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" alt="GitHub" /></a> | <a href="https://linkedin.com/in/krishnawd" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" alt="LinkedIn" /></a> | <a href="https://x.com/krishna2909782" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="45" height="45" alt="Twitter" /></a> | <a href="https://threads.net/@krishna_aggrwl" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" width="45" height="45" alt="Threads" /></a> |
+### 🔧 Tech Stack
+React • Appwrite • Tailwind CSS • Redux Toolkit
+
+🔗 Repo: https://github.com/krishna-agg18/ThoughtHaven
+
+---
+
+## 📝 Firebase Notes App
+Real-time notes application with Firebase backend integration.
+
+### 🔧 Tech Stack
+React • Firebase • Tailwind CSS
+
+🔗 Repo: https://github.com/krishna-agg18/fireBaseNotesApp
+
+---
+
+## 🔐 Backend Authentication System
+Production-style backend authentication system with JWT, refresh tokens, email verification, and password reset flow.
+
+### 🔧 Tech Stack
+Node.js • Express.js • MongoDB • JWT • Mongoose
+
+🔗 Repo: https://github.com/krishna-agg18/backend
 
 ---
 
@@ -123,28 +129,40 @@ I love solving problems through code, learning modern technologies, and building
 
 ---
 
-# ⭐ Top Repositories
 
-<p align="center">
-  <a href="https://github.com/krishna-agg18/AIResume">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=AIResume&theme=tokyonight"/>
-  </a>
+# 📈 Contribution Graph
 
-  <a href="https://github.com/krishna-agg18/ThoughtHaven">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=ThoughtHaven&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/krishna-agg18/fireBaseNotesApp">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=fireBaseNotesApp&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/krishna-agg18/backend">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=backend&theme=tokyonight"/>
-  </a>
-</p>
+[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna-agg18&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-✨ Always learning, building, and sharing my journey through code.
+# 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishna-agg18&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# ✨ Currently Exploring
+
+- MERN Stack Development
+- Backend Architecture
+- Authentication Systems
+- Machine Learning
+- Data Science with Python
+- Data Structures & Algorithms
+- Open Source Contributions
+
+--- 
+
+# 🌐 Connect With Me
+
+| GitHub | LinkedIn | X / Twitter | Threads |
+|---|---|---|---|
+| <a href="https://github.com/krishna-agg18" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" alt="GitHub" /></a> | <a href="https://linkedin.com/in/krishnawd" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" alt="LinkedIn" /></a> | <a href="https://x.com/krishna2909782" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="45" height="45" alt="Twitter" /></a> | <a href="https://threads.net/@krishna_aggrwl" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" width="45" height="45" alt="Threads" /></a> |
+
+---
+
+
+# 💡 Fun Fact
+
+I enjoy turning ideas into real-world projects and continuously learning by building 🚀

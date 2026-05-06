@@ -1,12 +1,29 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> My name is Krishna
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0ea5e9,100:2563eb&text=Krishna%20Aggarwal&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&fontColor=ffffff&animation=fadeIn"/>
 
-# Full-Stack Developer & Data Science Enthusiast 🚀
+<p align="center">
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Learner;Backend+Architecture+Explorer;Data+Science+%26+Machine+Learning;Building+Real+World+Projects+🚀" alt="Typing SVG" />
+</p>
 
-I'm Krishna, a BCA student and Full-Stack Developer passionate about building responsive and scalable web applications. I enjoy creating real-world projects using modern technologies like React, Node.js, Express, MongoDB, and TypeScript.
+# 👋 Hi, I'm Krishna Aggarwal
 
-My journey started with frontend development and gradually expanded into backend systems, authentication workflows, REST APIs, database design, and AI-powered applications. Alongside Full-Stack Development, I’m also exploring Data Science and Machine Learning using Python, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
+### Full-Stack Developer • MERN Stack Learner • Data Science Enthusiast
 
-I love solving problems through code, learning modern technologies, and building projects that combine clean UI/UX with practical functionality.
+I'm a BCA student passionate about building scalable web applications, backend systems, and AI-powered projects.
+
+💻 I enjoy working with:
+- MERN Stack Development
+- Backend Architecture & Authentication
+- REST APIs & Database Design
+- Data Science & Machine Learning
+- Modern UI/UX Development
+
+📚 Currently exploring:
+- Data Structures & Algorithms
+- Machine Learning with Python
+- Production-grade Backend Systems
+- Open Source Contributions
+
+🚀 I love transforming ideas into real-world projects while continuously learning modern technologies and improving problem-solving skills.
 
 ---
 
@@ -111,6 +128,21 @@ Node.js • Express.js • MongoDB • JWT • Mongoose
 
 ---
 
+# 🧠 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/Krishna_2909">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/kraggr2909">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+</p>
+
+---
+
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -166,3 +198,5 @@ Node.js • Express.js • MongoDB • JWT • Mongoose
 # 💡 Fun Fact
 
 I enjoy turning ideas into real-world projects and continuously learning by building 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=140&section=footer"/>

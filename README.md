@@ -142,35 +142,48 @@ Node.js • Express.js • MongoDB • JWT • Mongoose
 
 ---
 
-
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishna-agg18&show_icons=true&theme=tokyonight" height="180em"/>
-</p>
-
-<p align ="center">
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=krishna-agg18&theme=tokyonight" alt="GitHub Streak" />
-</a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krishna-agg18&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishna-agg18&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishna-agg18&layout=compact&theme=tokyonight" height="160em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishna-agg18&theme=tokyonight" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishna-agg18&theme=tokyonight" height="170"/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishna-agg18&theme=tokyonight&utcOffset=5.5" height="170"/>
 </p>
 
 ---
-
 
 # 📈 Contribution Graph
 
-[![Krishna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna-agg18&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishna-agg18&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishna-agg18&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishna-agg18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+# 🔥 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
 
 ---
 
@@ -200,3 +213,5 @@ Node.js • Express.js • MongoDB • JWT • Mongoose
 I enjoy turning ideas into real-world projects and continuously learning by building 🚀
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=140&section=footer"/>
+
+

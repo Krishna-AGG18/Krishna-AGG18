@@ -107,18 +107,43 @@ I love solving problems through code, learning modern technologies, and building
 
 # 📊 GitHub Stats
 
-[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-agg18)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=krishna-agg18&show_icons=true&theme=tokyonight" height="180em"/>
+</p>
+
+<p align ="center">
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=krishna-agg18&theme=tokyonight" alt="GitHub Streak" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=krishna-agg18&layout=compact&theme=tokyonight" height="160em"/>
+</p>
+
 ---
 
 # ⭐ Top Repositories
 
-<a href="https://github.com/krishna-agg18/AIResume">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-agg18&repo=AIResume&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/krishna-agg18/AIResume">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=AIResume&theme=tokyonight"/>
+  </a>
 
-<a href="https://github.com/krishna-agg18/ThoughtHaven">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-agg18&repo=ThoughtHaven&theme=tokyonight&hide_border=true" />
-</a>
+  <a href="https://github.com/krishna-agg18/ThoughtHaven">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=ThoughtHaven&theme=tokyonight"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/krishna-agg18/fireBaseNotesApp">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=fireBaseNotesApp&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/krishna-agg18/backend">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=krishna-agg18&repo=backend&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 

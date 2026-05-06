@@ -186,31 +186,63 @@ Node.js • Express.js • MongoDB • JWT • Mongoose
 
 
 ---
-
 # ✨ Currently Exploring
 
-- MERN Stack Development
-- Backend Architecture
-- Authentication Systems
-- Machine Learning
-- Data Science with Python
-- Data Structures & Algorithms
-- Open Source Contributions
+<p align="center">
 
---- 
+<img src="https://img.shields.io/badge/MERN%20Stack-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
 
-# 🌐 Connect With Me
+<img src="https://img.shields.io/badge/Backend%20Architecture-0F172A?style=for-the-badge&logo=node.js&logoColor=3C873A"/>
 
-| GitHub | LinkedIn | X / Twitter | Threads |
-|---|---|---|---|
-| <a href="https://github.com/krishna-agg18" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="45" height="45" alt="GitHub" /></a> | <a href="https://linkedin.com/in/krishnawd" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="45" height="45" alt="LinkedIn" /></a> | <a href="https://x.com/krishna2909782" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" width="45" height="45" alt="Twitter" /></a> | <a href="https://threads.net/@krishna_aggrwl" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" width="45" height="45" alt="Threads" /></a> |
+<img src="https://img.shields.io/badge/Authentication%20Systems-2563EB?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Science%20with%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Open%20Source%20Contributions-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/krishna-agg18">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://linkedin.com/in/krishnawd">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://twitter.com/krishna2909782">
+<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
+</a>
+
+<a href="https://www.threads.net/@krishna_aggrwl">
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" height="55"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/krishna-agg18?style=for-the-badge&logo=github&color=0891b2"/>
+  
+  <img src="https://img.shields.io/github/stars/krishna-agg18?style=for-the-badge&logo=github&color=facc15"/>
+</p>
+
+---
 
 # 💡 Fun Fact
 
-I enjoy turning ideas into real-world projects and continuously learning by building 🚀
+<p align="center">
+  
+✨ I enjoy turning ideas into real-world projects and continuously learning by building scalable applications, exploring AI/ML, and experimenting with modern technologies 🚀
+
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=140&section=footer"/>
 

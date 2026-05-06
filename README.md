@@ -107,8 +107,7 @@ I love solving problems through code, learning modern technologies, and building
 
 # 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Krishna-AGG18&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
+[![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishna-agg18)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 # ⭐ Top Repositories

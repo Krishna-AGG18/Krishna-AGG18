@@ -1,141 +1,146 @@
-# **<div align="center">Hey 👋, I'm Krishna!</div>**  
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> My name is Krishna
 
-**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=6000F7&width=1000&lines=Krishna+here+%F0%9F%91%8B+Welcome!;Frontend+Developer+%7C+React+%2B+Appwrite;Currently+exploring+AI+and+Spring+Boot+%F0%9F%9A%80;Learning+by+building+real+projects+%F0%9F%93%A2)](https://git.io/typing-svg)**
+# Full-Stack Developer & Data Science Enthusiast 🚀
 
+I'm Krishna, a BCA student and Full-Stack Developer passionate about building responsive and scalable web applications. I enjoy creating real-world projects using modern technologies like React, Node.js, Express, MongoDB, and TypeScript.
 
-<div align="center">
-<a href="https://github.com/Krishna-AGG18" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Krishna2909782" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/krishnawd" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/krishna.aggarwal.37625843" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/krishna_339l" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+My journey started with frontend development and gradually expanded into backend systems, authentication workflows, REST APIs, database design, and AI-powered applications. Alongside Full-Stack Development, I’m also exploring Data Science and Machine Learning using Python, NumPy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
-
-
-### Profile Summary!  
-I'm a passionate **Web Developer** and **BCA student** who loves building interactive, user-focused web applications. I primarily work with **React**, **JavaScript**, **HTML/CSS**, and **Bootstrap**, and I'm always exploring new technologies to sharpen my skills and bring creative ideas to life.
-
-### 🚀 What I Do
-- 🛍️ Built **Weave**, a responsive, full-featured e-commerce website.
-- 📝 Created and launched a full-stack **Blog App** using **React** and **Appwrite**, featuring user auth and post management.
-- ✅ Built productivity tools like:
-  - **ScribeSpace NoteVault** – a responsive note-taking app.
-  - **Today's Triumph** – a clean and minimal to-do list app.
-  - **Redux Toolkit To-Do App** – optimized state management with Redux Toolkit.
-- ⛅ **Weather App** – fetches and displays real-time weather data using open APIs.
-- 🎮 Developed fun React games:
-  - **Dice Game** – a two-player game built in React.
-  - **Tic Tac Toe**, **Rock Paper Scissors**, and more.
-
-### 🧠 What I'm Learning
-- Improving DSA and problem-solving with **LeetCode**.
-- Exploring the world of **AI**, understanding the fundamentals, and experimenting with basic models.
-- Diving into **backend development** with **Java Spring Boot**, learning how to structure robust APIs and connect frontends with powerful server-side logic.
-
-### 💡 What Drives Me
-I'm driven by the love of turning ideas into beautiful and functional apps. I believe in learning by doing, and GitHub is where I showcase that journey.
+I love solving problems through code, learning modern technologies, and building projects that combine clean UI/UX with practical functionality.
 
 ---
 
+## 🌍 About Me
 
-### Rapidfire  
-<table><tr><td valign="top" width="50%">
+* 🌍 I'm based in Delhi, India
+* 🖥️ Portfolio: [krishnaaggarwal.netlify.app](https://krishnaaggarwal.netlify.app/)
+* ✉️ Contact: [kraggr2909@gmail.com](mailto:kraggr2909@gmail.com)
+* 🧠 Currently learning MERN Stack Development, Backend Architecture, Data Structures & Algorithms, Machine Learning, and Data Science
+* 🤝 Open to collaborating on Full-Stack Web Applications, AI-powered Projects, Open Source Contributions, and MERN Stack Projects
+* 💬 Ask me about React, MERN Stack, REST APIs, Authentication, Backend Development, and Data Science
 
-- 🔭 I’m currently working on [ThoughtHaven](https://thoughthaven.netlify.app)  
-  
+---
 
-- 🌱 I’m currently learning, exploring AI/ML and Backend with java Spring Boot.  
-  
+# 🛠️ Skills
 
-- 💬 I'm always up for a chat about React, frontend tools, or building full-stack apps using services like Appwrite or any other BaaS!  
-  
+### Languages
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+</p>
 
+### Frontend Development
 
-</td><td valign="top" width="50%">
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://ui.shadcn.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" width="36" height="36" alt="Shadcn/ui" /></a>
+</p>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>  
-  
+### Backend & Database
 
-<div align="center">
-  <img height="100" style="margin-top:26px" src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEzNTY0MTQsIm5iZiI6MTc1MTM1NjExNCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAxVDA3NDgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4MTkxYWEzZmUwOTMzMTAwZDU2MzY2MDM2MjMxYjRlODAxYmQ0YjdkYzllNzg3NjkwYmMzMmM5MDBkZjM5ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PpU4_N30R7rHHftvEYAIza_Pj1PvHf0gwBAJbYcKjuc"  />
-</div>  
+<p align="left">
+<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://appwrite.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a>
+</p>
 
+### Data Science & Machine Learning
 
-</td></tr></table>  
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-<br/>  
+### Tools & Platforms
 
+<p align="left">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="75" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="75" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="75" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="75" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="75" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="75" /></a>  
-</div>  
+---
 
-<br/>  
+# 🚀 Featured Projects
 
+### 🔹 Resumind — AI Resume Analyzer
 
+* AI-powered resume analysis platform
+* Built using React, TypeScript, Puter.js
+* Authentication, AI analysis, and cloud storage integration
 
-## Github Stats  
-<table align="center"><tr><td valign="top" width="50%">
+### 🔹 ThoughtHaven — Full Stack Blog Application
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
+* Blogging platform using React 19 and Appwrite
+* JWT authentication and secure CRUD operations
+* TinyMCE editor integration
 
-</td><td valign="top" width="50%">
+### 🔹 ASKIO — AI Chatbot
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-agg18&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+* AI-powered chatbot using Google Gemini API
+* Supports chat, code assistance, and content generation
+* Built with React and Tailwind CSS
 
-</td></tr></table>  
+### 🔹 Note Nostre — Notes Application
 
-<div align="center">
-  
-![image](https://github.com/user-attachments/assets/dae4eb7d-e7b4-4ad9-9079-77fc4b9fa855)
- 
-</div>
+* Full-stack notes app using Firebase
+* Real-time synchronization and authentication
+* Rich-text editing support
 
+---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=krishna-agg18&&style=flat-square" align="center" />
-</div>  
-  
+# 🌐 Connect With Me
 
-<br/>  
+<p align="left">
+<a href="https://github.com/krishna-agg18"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/krishnawd"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://www.x.com/krishna2909782"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
+<a href="https://www.threads.net/@krishna_aggrwl"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" /></a>
+</p>
 
+---
 
-<br />
+# 📊 GitHub Stats
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://github.com/krishna-agg18">
+<img src="https://github-readme-stats.vercel.app/api?username=krishna-agg18&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
 
+<a href="https://github.com/krishna-agg18">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-agg18&theme=tokyonight&hide_border=true" />
+</a>
 
+<a href="https://github.com/krishna-agg18">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-agg18&layout=compact&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+# ⭐ Top Repositories
+
+<a href="https://github.com/krishna-agg18/AIResume">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-agg18&repo=AIResume&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/krishna-agg18/ThoughtHaven">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishna-agg18&repo=ThoughtHaven&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+✨ Always learning, building, and sharing my journey through code.
